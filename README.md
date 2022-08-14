@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://github.com/AhanafVai/FM_3-column-preview-card-component)
-- Live Site URL: [Add live site URL here](https://ahanafvai.github.io/FM_3-column-preview-card-component/)
+- Solution URL: [Solution](https://github.com/AhanafVai/FM_3-column-preview-card-component)
+- Live Site URL: [live site](3-columns-challenge.netlify.app)
 
 ## My process
 
